@@ -2,3 +2,5 @@
 week-3-prediction
 
 1. Splitting data into training and test sets
+
+2. Preprocessing Pipeline
